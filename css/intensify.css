@@ -1,0 +1,289 @@
+.master{
+         width:1000px;
+         height:1000px;
+        
+         margin:0 auto;
+         
+        
+
+}
+/* nav starts here */
+.nav {
+      width:1000px;
+      height:90px;
+      background-color:white ;
+
+}
+.left{
+       width:300px;
+       height:100px;
+       
+       float:left;
+
+}
+.center{
+         width:300px;
+         height:100px;
+         
+         float:left;
+
+}
+.right{
+        width:300px;
+        height:100px;
+        
+        float:right;
+}
+
+.left .fa {
+     font-size:30px;
+     color:gray;
+     margin-top:40px;
+     margin-left:20px;
+     
+
+}
+.center h1 {
+    font-family: 'Pacifico', cursive;
+    color:#F6755E;
+    text-align:center;
+
+}
+.right button {
+              float:right;
+              margin-top:30px;
+              padding:10px 25px;
+              margin-right:20px;
+
+}
+/* nav finished here */
+
+/* banner starts here */
+.banner{
+         width:1000px;
+         
+         
+         
+         
+
+}
+.box {
+        width:600px;
+        
+        
+        position:relative;
+        top:-260px;
+        left:200px;
+
+}
+.box h1 {
+         text-align:center;
+         font-family: 'Montserrat', sans-serif;
+         color:#25A2C3;
+         
+
+
+}
+.box p {
+        text-align:center;
+        font-family:'Montserrat', sans-serif; ;
+        color:darkslategray;
+}
+.box button {
+        font-family: 'Montserrat', sans-serif;
+        background-color:#F6755E;
+        color:white;
+        font-size:20px;
+        padding:10px 20px;
+        font-weight:900;
+        margin-left:200px;
+
+}
+/* banner finished */
+/* third-line starts here */
+
+.third-line {
+             width:1000px;
+             
+             
+             position:relative;
+             top:-180px; 
+                
+
+}
+.left-1{
+        float:left;
+
+        
+
+}
+.left-1 h1 {
+             color:#25A2C3;
+             margin-left:30px;
+             text-align:right;
+             
+
+}
+.left-1 p{
+          margin-left:30px;
+          text-align:right;
+}
+
+.center-1{
+          float:left;
+          
+          
+
+}
+.center-1 img {
+             border-radius:200px;
+
+}
+.right-1{
+         float:left;
+
+}
+.right-1 h1 {
+            color:#25A2C3;
+            margin-left:20px;
+            
+}
+.right-1 p{
+          margin-left:20px;
+          
+}
+/* third-line finished */
+
+/* orange starts here */
+
+.orange {
+          width:1000px;
+          height:250px;
+          background-color: #F6755E;
+          position:relative;
+          top:200px;
+          font-family:'Montserrat', sans-serif;
+
+}
+.box-1 {
+         width:600px;
+         
+         
+         text-align:center;
+         margin-left:150px;
+         position:relative;
+         top:-280px;
+         left:40px;
+         color:white;
+         
+
+}
+/* orange finished */
+
+/* left-2 starts here */
+.left-2 {
+          width:1000px;
+          height:500px;
+          
+          clear:both;
+
+
+}
+.box-2 {
+         width:250px;
+         
+         background-color:white;
+         margin-top:200px;
+         float:left;
+         margin-left:55px;
+
+}
+.box-2 h1 {
+           color:#25A2C3;
+           font-family:'Montserrat', sans-serif; 
+
+}
+.box-2 p{
+         color:gray;
+         font-family:'Montserrat', sans-serif;
+
+}
+.box-3 {
+         width:250px;
+         background-color: white;
+         float:left;
+         margin-top:200px;
+         margin-left:55px;
+         
+
+}
+.box-3 h1 {
+          color:#25A2C3;
+          font-family: 'Montserrat', sans-serif;
+
+}
+.box-3 p{
+         color:gray;
+         font-family:'Montserrat', sans-serif;
+
+}
+.box-4 {
+        width:250px;
+        background-color: white;
+        float:left;
+        margin-top:200px;
+        margin-left:55px;
+
+}
+
+.box-4 h1 {
+            color:#25A2C3;
+            font-family: 'Montserrat', sans-serif;
+}
+.box-4 p{
+          color:gray;
+          font-family:'Montserrat', sans-serif;
+}
+
+/* left-2 finished */
+
+.blue {
+        width:1000px;
+        height:300px;
+        background-color: #25A2C3;
+        font-weight:100;
+}
+
+.main{
+        width:910px;
+        
+        
+        margin:0 auto;
+        position: relative;
+        top:30px;
+        
+}
+.main h1 {
+         color:white;
+         font-family: 'Montserrat', sans-serif;
+         text-align:center;
+}
+span{
+        
+        font-family: 'Montserrat', sans-serif;
+        margin-left:10px;
+        color:white;
+}
+ .main .fa {
+        color:white;
+}
+hr {
+        position:relative;
+        top:20px;
+}
+.blue p{
+        color:white;
+        font-family: 'Montserrat', sans-serif;
+        text-align:center;
+        margin-top:40px;
+}
